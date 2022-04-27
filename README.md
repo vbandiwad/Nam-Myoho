@@ -1,0 +1,2 @@
+# Nam-Myoho
+Practice repository 
